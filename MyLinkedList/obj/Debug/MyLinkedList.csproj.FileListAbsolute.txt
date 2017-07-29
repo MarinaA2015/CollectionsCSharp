@@ -1,0 +1,6 @@
+c:\users\inka\documents\visual studio 2017\Projects\MyLinkedList\MyLinkedList\bin\Debug\MyLinkedList.exe.config
+c:\users\inka\documents\visual studio 2017\Projects\MyLinkedList\MyLinkedList\bin\Debug\MyLinkedList.exe
+c:\users\inka\documents\visual studio 2017\Projects\MyLinkedList\MyLinkedList\bin\Debug\MyLinkedList.pdb
+c:\users\inka\documents\visual studio 2017\Projects\MyLinkedList\MyLinkedList\obj\Debug\MyLinkedList.csprojResolveAssemblyReference.cache
+c:\users\inka\documents\visual studio 2017\Projects\MyLinkedList\MyLinkedList\obj\Debug\MyLinkedList.exe
+c:\users\inka\documents\visual studio 2017\Projects\MyLinkedList\MyLinkedList\obj\Debug\MyLinkedList.pdb
