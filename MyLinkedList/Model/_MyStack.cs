@@ -116,7 +116,12 @@ namespace MyLinkedList.Model
 
 		public IEnumerator<T> GetEnumerator()
 		{
-			return new MyStackEnumerator<T>(arrayStack, Count);
+			int currentNum = Count - 1;
+			while (currentNum >= 0)
+			{
+				yield return arrayStack[currentNum];
+				currentNum--;
+			}
 		}
 
 		IEnumerator IEnumerable.GetEnumerator()
