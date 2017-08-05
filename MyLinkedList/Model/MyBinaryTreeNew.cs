@@ -30,8 +30,11 @@ namespace MyLinkedList.Model
 				else if (current.IsLeftChild())
 					current = current.Parent;
 				else if (current.IsRightChild())
+				{
 					while (!current.IsLeftChild() && !current.IsHead())
 						current = current.Parent;
+					current = current.Parent;
+				}
 				else if (current.IsHead())
 					if (current.Right != null) yield break;
 					else current = TheMostLeft(current.Right);
